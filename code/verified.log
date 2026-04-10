@@ -1,0 +1,1093 @@
+✓              2A_BMAE  (opt_bmae_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.356 Å
+
+  Full atom list (81 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.1486    -0.4292     0.2260  CAT
+     2     P     2.0642    -0.9784     0.5790  CAT
+     3     P    -2.4427    -0.2346     0.4466  CAT
+     4     O     0.0165    -0.1662    -2.7817  CAT
+     5     N    -0.2747    -0.8115     2.3317  CAT
+     6     C     0.7809    -1.6591     2.8648  CAT
+     7     H     0.6759    -2.7179     2.5451  CAT
+     8     H     0.7498    -1.6715     3.9696  CAT
+     9     C    -1.5597    -1.3319     2.7769  CAT
+    10     H    -1.6046    -1.3604     3.8812  CAT
+    11     H    -1.7293    -2.3756     2.4376  CAT
+    12     C    -2.7094    -0.4566     2.2683  CAT
+    13     H    -2.6512     0.5316     2.7334  CAT
+    14     H    -3.6883    -0.8920     2.4907  CAT
+    15     C     2.1543    -1.1444     2.4225  CAT
+    16     H     2.9763    -1.7942     2.7377  CAT
+    17     H     2.3070    -0.1489     2.8515  CAT
+    18     C    -0.0471    -0.2161    -1.6103  CAT
+    19     H    -0.4341    -1.9792     0.0207  CAT
+    20     C     3.3126     0.2815     0.0866  CAT
+    21     C     3.9568     1.1396     0.9878  CAT
+    22     C     3.5184     0.4735    -1.2923  CAT
+    23     C     4.7797     2.1735     0.5247  CAT
+    24     H     3.8279     1.0107     2.0571  CAT
+    25     C     4.3462     1.4947    -1.7533  CAT
+    26     H     3.0155    -0.1737    -2.0050  CAT
+    27     C     4.9747     2.3558    -0.8444  CAT
+    28     H     5.2668     2.8322     1.2377  CAT
+    29     H     4.4938     1.6262    -2.8213  CAT
+    30     H     5.6123     3.1584    -1.2029  CAT
+    31     C     2.8000    -2.5187    -0.0920  CAT
+    32     C     4.1593    -2.8063     0.1127  CAT
+    33     C     2.0067    -3.4214    -0.8091  CAT
+    34     C     4.7128    -3.9852    -0.3855  CAT
+    35     H     4.7870    -2.1023     0.6521  CAT
+    36     C     2.5632    -4.6020    -1.3103  CAT
+    37     H     0.9590    -3.1881    -0.9651  CAT
+    38     C     3.9136    -4.8862    -1.0987  CAT
+    39     H     5.7650    -4.1998    -0.2231  CAT
+    40     H     1.9407    -5.2959    -1.8674  CAT
+    41     H     4.3455    -5.8028    -1.4897  CAT
+    42     C    -3.2955     1.3336     0.0015  CAT
+    43     C    -4.2232     1.9703     0.8375  CAT
+    44     C    -2.9779     1.9213    -1.2334  CAT
+    45     C    -4.8182     3.1745     0.4501  CAT
+    46     H    -4.4811     1.5367     1.7985  CAT
+    47     C    -3.5759     3.1200    -1.6230  CAT
+    48     H    -2.2531     1.4425    -1.8846  CAT
+    49     C    -4.4952     3.7525    -0.7799  CAT
+    50     H    -5.5316     3.6598     1.1101  CAT
+    51     H    -3.3171     3.5642    -2.5796  CAT
+    52     H    -4.9543     4.6900    -1.0790  CAT
+    53     C    -3.5460    -1.4727    -0.3544  CAT
+    54     C    -4.9302    -1.4503    -0.1200  CAT
+    55     C    -3.0164    -2.4372    -1.2192  CAT
+    56     C    -5.7669    -2.3855    -0.7283  CAT
+    57     H    -5.3599    -0.6938     0.5303  CAT
+    58     C    -3.8559    -3.3705    -1.8348  CAT
+    59     H    -1.9475    -2.4520    -1.3978  CAT
+    60     C    -5.2299    -3.3491    -1.5892  CAT
+    61     H    -6.8359    -2.3596    -0.5373  CAT
+    62     H    -3.4334    -4.1124    -2.5063  CAT
+    63     H    -5.8814    -4.0751    -2.0668  CAT
+    64     N     0.3881     1.7839     0.8293  AMINE
+    65     C     0.6715     2.6616    -0.3225  AMINE
+    66     C     1.4253     3.9493     0.0314  AMINE
+    67     H    -0.2752     2.8877    -0.8191  AMINE
+    68     H     1.2746     2.0827    -1.0251  AMINE
+    69     N     2.0230     4.5180    -1.1694  AMINE
+    70     H     2.1835     3.7195     0.8075  AMINE
+    71     H     0.7486     4.6973     0.4617  AMINE
+    72     H     1.2765     1.6170     1.2961  AMINE
+    73     H     2.6293     3.8204    -1.5942  AMINE
+    74     C    -0.4966     2.4017     1.8341  AMINE
+    75     H    -1.4503     2.6498     1.3647  AMINE
+    76     H    -0.6532     1.6637     2.6233  AMINE
+    77     H    -0.0683     3.3165     2.2644  AMINE
+    78     C     2.7859     5.7327    -0.9108  AMINE
+    79     H     3.2610     6.0735    -1.8356  AMINE
+    80     H     2.1089     6.5249    -0.5718  AMINE
+    81     H     3.5699     5.6082    -0.1402  AMINE
+✓               2A_DEA  (opt_dea_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.364 Å
+✓              2A_DETA  (opt_deta_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 2.571 Å
+✓             2A_DMEDA  (opt_dmeda_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.575 Å
+✓               2A_EDA  (opt_eda_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 12, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.574 Å
+✓              2A_INDO  (opt_indo_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 2.671 Å
+✓               2A_MOR  (opt_mor_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 15, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 2.606 Å
+✓               2A_NMA  (opt_nma_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.663 Å
+✓               2A_PIP  (opt_pip_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 2.604 Å
+✓               2A_THQ  (opt_thq_2_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 21, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 2.639 Å
+✓              3A_BMAE  (opt_bmae_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.213 Å
+
+  Full atom list (81 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.2437    -0.1146     0.0763  CAT
+     2     P     1.9807    -0.7722     0.3413  CAT
+     3     P    -2.5286     0.0448     0.3942  CAT
+     4     O    -0.2577     0.0465    -2.9208  CAT
+     5     N    -0.2329    -0.2419     2.2866  CAT
+     6     C     0.9202    -0.9727     2.8569  CAT
+     7     H     0.7470    -2.0426     2.6999  CAT
+     8     H     0.9861    -0.7972     3.9403  CAT
+     9     C    -1.5171    -0.6795     2.8733  CAT
+    10     H    -1.5121    -0.5411     3.9644  CAT
+    11     H    -1.6089    -1.7512     2.6709  CAT
+    12     C    -2.6950     0.0725     2.2544  CAT
+    13     H    -2.6770     1.1188     2.5719  CAT
+    14     H    -3.6401    -0.3649     2.5885  CAT
+    15     C     2.2103    -0.5338     2.1677  CAT
+    16     H     3.0681    -1.0873     2.5606  CAT
+    17     H     2.3638     0.5385     2.3286  CAT
+    18     C    -0.2544    -0.0061    -1.7499  CAT
+    19     H    -0.5632    -1.7102     0.0607  CAT
+    20     C     3.4275     0.0581    -0.4287  CAT
+    21     C     4.4715     0.6346     0.3047  CAT
+    22     C     3.4664     0.1126    -1.8318  CAT
+    23     C     5.5373     1.2573    -0.3521  CAT
+    24     H     4.4596     0.6164     1.3887  CAT
+    25     C     4.5307     0.7304    -2.4862  CAT
+    26     H     2.6519    -0.3128    -2.4111  CAT
+    27     C     5.5698     1.3068    -1.7468  CAT
+    28     H     6.3346     1.7112     0.2287  CAT
+    29     H     4.5433     0.7737    -3.5710  CAT
+    30     H     6.3942     1.7973    -2.2555  CAT
+    31     C     2.4583    -2.5378     0.0843  CAT
+    32     C     3.7610    -2.9602     0.3995  CAT
+    33     C     1.5485    -3.4680    -0.4303  CAT
+    34     C     4.1380    -4.2906     0.2208  CAT
+    35     H     4.4896    -2.2449     0.7702  CAT
+    36     C     1.9291    -4.8005    -0.6182  CAT
+    37     H     0.5445    -3.1364    -0.6705  CAT
+    38     C     3.2206    -5.2156    -0.2902  CAT
+    39     H     5.1477    -4.6039     0.4702  CAT
+    40     H     1.2138    -5.5111    -1.0221  CAT
+    41     H     3.5155    -6.2508    -0.4354  CAT
+    42     C    -3.5402     1.4650    -0.1839  CAT
+    43     C    -4.4979     2.1086     0.6102  CAT
+    44     C    -3.3357     1.9055    -1.4998  CAT
+    45     C    -5.2392     3.1768     0.0985  CAT
+    46     H    -4.6693     1.7915     1.6340  CAT
+    47     C    -4.0831     2.9650    -2.0137  CAT
+    48     H    -2.5793     1.4308    -2.1165  CAT
+    49     C    -5.0350     3.6056    -1.2150  CAT
+    50     H    -5.9732     3.6732     0.7268  CAT
+    51     H    -3.9111     3.2991    -3.0324  CAT
+    52     H    -5.6089     4.4378    -1.6116  CAT
+    53     C    -3.6064    -1.3598    -0.1282  CAT
+    54     C    -4.9534    -1.4067     0.2662  CAT
+    55     C    -3.1063    -2.3679    -0.9604  CAT
+    56     C    -5.7771    -2.4545    -0.1444  CAT
+    57     H    -5.3700    -0.6152     0.8821  CAT
+    58     C    -3.9350    -3.4115    -1.3830  CAT
+    59     H    -2.0660    -2.3295    -1.2618  CAT
+    60     C    -5.2682    -3.4611    -0.9722  CAT
+    61     H    -6.8158    -2.4810     0.1720  CAT
+    62     H    -3.5356    -4.1843    -2.0333  CAT
+    63     H    -5.9106    -4.2740    -1.2979  CAT
+    64     N     0.2783     1.9573     0.6516  AMINE
+    65     C     1.2834     2.6304    -0.1652  AMINE
+    66     C     2.3277     3.3939     0.6629  AMINE
+    67     H     0.8277     3.3397    -0.8816  AMINE
+    68     H     1.8217     1.9060    -0.7784  AMINE
+    69     N     3.3290     4.0206    -0.1944  AMINE
+    70     H     2.7823     2.6855     1.3837  AMINE
+    71     H     1.8458     4.1783     1.2601  AMINE
+    72     H    -0.0665     0.7707     2.3957  AMINE
+    73     H     3.7023     3.3215    -0.8320  AMINE
+    74     C    -0.7828     2.9166     0.9205  AMINE
+    75     H    -1.3404     3.2338     0.0187  AMINE
+    76     H    -1.5207     2.5164     1.6245  AMINE
+    77     H    -0.3911     3.8374     1.3862  AMINE
+    78     C     4.4209     4.6301     0.5484  AMINE
+    79     H     5.1743     5.0187    -0.1448  AMINE
+    80     H     4.0390     5.4742     1.1346  AMINE
+    81     H     4.9221     3.9372     1.2530  AMINE
+✓               3A_DEA  (opt_dea_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.246 Å
+✓             3A_DMEDA  (opt_dmeda_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 2.448 Å
+✓               3A_EDA  (opt_eda_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 12, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.432 Å
+✓              3A_INDO  (opt_indo_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 2.262 Å
+✓               3A_MOR  (opt_mor_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 15, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 2.224 Å
+✓               3A_NMA  (opt_nma_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.236 Å
+✓               3A_PIP  (opt_pip_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 2.229 Å
+✓               3A_THQ  (opt_thq_3_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 21, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 2.544 Å
+✓              4A_BMAE  (opt_bmae_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 3
+  Amine N → Ru: atom 64, d = 2.422 Å
+
+  Full atom list (84 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru     0.2387     0.2112     0.1313  CAT
+     2     P    -1.9183     1.0760     0.4603  CAT
+     3     P     2.5481    -0.0395     0.3472  CAT
+     4     O     0.1599     0.1360    -2.8711  CAT
+     5     N     0.3788     0.5593     2.3232  CAT
+     6     C    -0.6326     1.5174     2.8343  CAT
+     7     H    -0.3371     2.5201     2.5078  CAT
+     8     H    -0.6344     1.5046     3.9327  CAT
+     9     C     1.7453     0.9225     2.7664  CAT
+    10     H     1.7963     0.9168     3.8637  CAT
+    11     H     1.9617     1.9392     2.4218  CAT
+    12     C     2.7537    -0.0695     2.1888  CAT
+    13     H     2.5032    -1.0766     2.5378  CAT
+    14     H     3.7725     0.1774     2.5004  CAT
+    15     C    -2.0232     1.1676     2.3067  CAT
+    16     H    -2.7622     1.9017     2.6390  CAT
+    17     H    -2.3117     0.1711     2.6552  CAT
+    18     C     0.1763     0.1289    -1.7033  CAT
+    19     H     0.6183     1.7424     0.0551  CAT
+    20     C    -3.4739     0.3100    -0.1374  CAT
+    21     C    -4.3575    -0.3938     0.6900  CAT
+    22     C    -3.7385     0.3940    -1.5151  CAT
+    23     C    -5.4921    -1.0009     0.1436  CAT
+    24     H    -4.1447    -0.5161     1.7432  CAT
+    25     C    -4.8651    -0.2202    -2.0577  CAT
+    26     H    -3.0543     0.9308    -2.1665  CAT
+    27     C    -5.7472    -0.9199    -1.2272  CAT
+    28     H    -6.1673    -1.5501     0.7932  CAT
+    29     H    -5.0498    -0.1614    -3.1258  CAT
+    30     H    -6.6232    -1.4038    -1.6487  CAT
+    31     C    -2.2004     2.8133    -0.0925  CAT
+    32     C    -3.3732     3.4766     0.3059  CAT
+    33     C    -1.3004     3.4763    -0.9340  CAT
+    34     C    -3.6264     4.7830    -0.1096  CAT
+    35     H    -4.1009     2.9637     0.9283  CAT
+    36     C    -1.5582     4.7829    -1.3605  CAT
+    37     H    -0.3990     2.9665    -1.2509  CAT
+    38     C    -2.7169     5.4406    -0.9455  CAT
+    39     H    -4.5354     5.2844     0.2094  CAT
+    40     H    -0.8528     5.2827    -2.0179  CAT
+    41     H    -2.9162     6.4562    -1.2744  CAT
+    42     C     3.5350    -1.4433    -0.2978  CAT
+    43     C     4.2958    -2.2907     0.5164  CAT
+    44     C     3.5036    -1.6683    -1.6831  CAT
+    45     C     5.0137    -3.3505    -0.0458  CAT
+    46     H     4.3266    -2.1419     1.5906  CAT
+    47     C     4.2237    -2.7223    -2.2432  CAT
+    48     H     2.9074    -1.0233    -2.3227  CAT
+    49     C     4.9793    -3.5685    -1.4244  CAT
+    50     H     5.5951    -4.0058     0.5960  CAT
+    51     H     4.1889    -2.8885    -3.3156  CAT
+    52     H     5.5341    -4.3943    -1.8592  CAT
+    53     C     3.6147     1.3658    -0.1906  CAT
+    54     C     4.9778     1.3690     0.1493  CAT
+    55     C     3.1053     2.4154    -0.9634  CAT
+    56     C     5.8073     2.4138    -0.2555  CAT
+    57     H     5.3982     0.5445     0.7180  CAT
+    58     C     3.9388     3.4582    -1.3787  CAT
+    59     H     2.0563     2.4132    -1.2326  CAT
+    60     C     5.2880     3.4631    -1.0218  CAT
+    61     H     6.8584     2.4058     0.0179  CAT
+    62     H     3.5307     4.2644    -1.9812  CAT
+    63     H     5.9346     4.2746    -1.3421  CAT
+    64     N    -0.3884    -2.1076     0.4444  AMINE
+    65     C    -1.4203    -2.4408    -0.5691  AMINE
+    66     C    -2.0344    -3.8404    -0.4501  AMINE
+    67     H    -0.9714    -2.3151    -1.5573  AMINE
+    68     H    -2.2176    -1.7129    -0.4728  AMINE
+    69     N    -3.2727    -3.8681    -1.2253  AMINE
+    70     H    -2.1969    -4.0825     0.6133  AMINE
+    71     H    -1.3639    -4.6028    -0.8657  AMINE
+    72     H     0.1850    -0.3846     2.7177  AMINE
+    73     H    -3.8937    -3.1416    -0.8756  AMINE
+    74     C     0.7656    -3.0216     0.3164  AMINE
+    75     H     1.1919    -2.9250    -0.6828  AMINE
+    76     H     1.5110    -2.7705     1.0625  AMINE
+    77     H     0.4650    -4.0632     0.4815  AMINE
+    78     C    -3.9514    -5.1568    -1.1758  AMINE
+    79     H    -4.9021    -5.0926    -1.7147  AMINE
+    80     H    -3.3360    -5.9141    -1.6757  AMINE
+    81     H    -4.1551    -5.5152    -0.1497  AMINE
+    82     C    -0.9185    -2.0715     1.8414  EXTRA
+    83     O    -2.1466    -1.9087     1.9580  EXTRA
+    84     O    -0.0311    -2.1048     2.7379  EXTRA
+✓               4A_DEA  (opt_dea_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 3
+  Amine N → Ru: atom 64, d = 2.436 Å
+✓              4A_DETA  (opt_deta_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 3
+  Amine N → Ru: atom 70, d = 2.559 Å
+✓             4A_DMEDA  (opt_dmeda_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 3
+  Amine N → Ru: atom 70, d = 2.541 Å
+✓               4A_EDA  (opt_eda_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 12, Extra atoms: 3
+  Amine N → Ru: atom 64, d = 2.336 Å
+✓              4A_INDO  (opt_indo_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 3
+  Amine N → Ru: atom 66, d = 2.474 Å
+✓               4A_MOR  (opt_mor_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 15, Extra atoms: 3
+  Amine N → Ru: atom 76, d = 2.405 Å
+✓               4A_NMA  (opt_nma_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 3
+  Amine N → Ru: atom 64, d = 2.647 Å
+✓               4A_PIP  (opt_pip_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 3
+  Amine N → Ru: atom 76, d = 2.408 Å
+✓               4A_THQ  (opt_thq_4_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 21, Extra atoms: 3
+  Amine N → Ru: atom 66, d = 2.673 Å
+✓              5A_BMAE  (opt_bmae_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 5
+  Amine N → Ru: atom 64, d = 4.592 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+
+  Full atom list (86 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.5350     0.6508     0.0704  CAT
+     2     P     1.2935     2.0707    -0.2946  CAT
+     3     P    -2.4313    -0.6907    -0.2487  CAT
+     4     O    -0.9893     1.3835     2.9613  CAT
+     5     N    -0.3567     0.3441    -2.1023  CAT
+     6     C     0.4521     1.3755    -2.7932  CAT
+     7     H    -0.1450     2.2928    -2.8612  CAT
+     8     H     0.6776     1.0394    -3.8141  CAT
+     9     C    -1.6787     0.1687    -2.7491  CAT
+    10     H    -1.5414    -0.0518    -3.8166  CAT
+    11     H    -2.2381     1.1059    -2.6604  CAT
+    12     C    -2.4203    -0.9885    -2.0817  CAT
+    13     H    -1.8508    -1.9071    -2.2495  CAT
+    14     H    -3.4340    -1.0963    -2.4767  CAT
+    15     C     1.7510     1.6219    -2.0300  CAT
+    16     H     2.3571     2.3973    -2.5063  CAT
+    17     H     2.3131     0.6826    -1.9830  CAT
+    18     C    -0.7943     1.0738     1.8569  CAT
+    19     H    -1.4596     1.8866    -0.3367  CAT
+    20     C     2.8111     1.8869     0.7144  CAT
+    21     C     3.5715     0.7102     0.6014  CAT
+    22     C     3.1686     2.8557     1.6641  CAT
+    23     C     4.6878     0.5280     1.4195  CAT
+    24     H     3.2887    -0.0687    -0.1041  CAT
+    25     C     4.2830     2.6598     2.4830  CAT
+    26     H     2.5823     3.7625     1.7675  CAT
+    27     C     5.0484     1.4979     2.3596  CAT
+    28     H     5.2751    -0.3805     1.3217  CAT
+    29     H     4.5504     3.4157     3.2155  CAT
+    30     H     5.9161     1.3468     2.9949  CAT
+    31     C     1.0109     3.8821    -0.3241  CAT
+    32     C     1.9853     4.7370    -0.8660  CAT
+    33     C    -0.1595     4.4342     0.2099  CAT
+    34     C     1.7850     6.1168    -0.8833  CAT
+    35     H     2.9095     4.3259    -1.2615  CAT
+    36     C    -0.3576     5.8181     0.1989  CAT
+    37     H    -0.9141     3.7764     0.6252  CAT
+    38     C     0.6111     6.6603    -0.3498  CAT
+    39     H     2.5442     6.7674    -1.3070  CAT
+    40     H    -1.2686     6.2346     0.6183  CAT
+    41     H     0.4561     7.7351    -0.3611  CAT
+    42     C    -2.4739    -2.3579     0.5075  CAT
+    43     C    -2.9358    -3.4868    -0.1838  CAT
+    44     C    -2.0299    -2.5011     1.8304  CAT
+    45     C    -2.9597    -4.7359     0.4396  CAT
+    46     H    -3.2652    -3.4029    -1.2142  CAT
+    47     C    -2.0556    -3.7493     2.4533  CAT
+    48     H    -1.6549    -1.6371     2.3702  CAT
+    49     C    -2.5211    -4.8695     1.7589  CAT
+    50     H    -3.3101    -5.6046    -0.1097  CAT
+    51     H    -1.7036    -3.8478     3.4757  CAT
+    52     H    -2.5323    -5.8426     2.2403  CAT
+    53     C    -4.0971    -0.0092     0.1258  CAT
+    54     C    -5.2338    -0.8336     0.0942  CAT
+    55     C    -4.2493     1.3518     0.4205  CAT
+    56     C    -6.4993    -0.3007     0.3391  CAT
+    57     H    -5.1316    -1.8950    -0.1075  CAT
+    58     C    -5.5178     1.8840     0.6671  CAT
+    59     H    -3.3712     1.9862     0.4577  CAT
+    60     C    -6.6444     1.0607     0.6253  CAT
+    61     H    -7.3705    -0.9487     0.3141  CAT
+    62     H    -5.6218     2.9401     0.8976  CAT
+    63     H    -7.6296     1.4735     0.8210  CAT
+    64     N     1.5903    -3.3684    -0.5715  AMINE
+    65     C     2.7715    -3.5172     0.2603  AMINE
+    66     C     3.9490    -4.1707    -0.4711  AMINE
+    67     H     2.5091    -4.1196     1.1376  AMINE
+    68     H     3.0752    -2.5267     0.6114  AMINE
+    69     N     5.1184    -4.2380     0.4041  AMINE
+    70     H     4.1392    -3.6060    -1.3995  AMINE
+    71     H     3.6835    -5.1962    -0.7590  AMINE
+    72     H     0.1236    -0.5928    -2.2049  AMINE
+    73     H     5.3606    -3.2950     0.7001  AMINE
+    74     C     0.6511    -4.4731    -0.6133  AMINE
+    75     H     0.2335    -4.6655     0.3837  AMINE
+    76     H    -0.1583    -4.2092    -1.2907  AMINE
+    77     H     1.1246    -5.3993    -0.9717  AMINE
+    78     C     6.2764    -4.8580    -0.2309  AMINE
+    79     H     7.1351    -4.8199     0.4470  AMINE
+    80     H     6.0571    -5.9130    -0.4318  AMINE
+    81     H     6.5658    -4.3887    -1.1892  AMINE
+    82     C     1.4858    -2.2826    -1.4428  EXTRA
+    83     O     2.3958    -1.4030    -1.3919  EXTRA
+    84     O     0.4417    -2.2148    -2.1783  EXTRA
+    85     H     0.8539    -0.5322     0.3077  EXTRA
+    86     H     0.1994    -0.9820     0.4584  EXTRA
+✓               5A_DEA  (opt_dea_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 5
+  Amine N → Ru: atom 64, d = 4.588 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              5A_DETA  (opt_deta_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 5
+  Amine N → Ru: atom 70, d = 4.991 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             5A_DMEDA  (opt_dmeda_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 5
+  Amine N → Ru: atom 70, d = 5.143 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               5A_EDA  (opt_eda_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 12, Extra atoms: 5
+  Amine N → Ru: atom 64, d = 5.454 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              5A_INDO  (opt_indo_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 5
+  Amine N → Ru: atom 66, d = 5.044 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               5A_MOR  (opt_mor_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 15, Extra atoms: 5
+  Amine N → Ru: atom 76, d = 4.773 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               5A_NMA  (opt_nma_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 5
+  Amine N → Ru: atom 64, d = 4.634 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               5A_PIP  (opt_pip_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 5
+  Amine N → Ru: atom 76, d = 4.726 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               5A_THQ  (opt_thq_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 21, Extra atoms: 5
+  Amine N → Ru: atom 66, d = 4.890 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              H1_BMAE  (INT_TS_bmae_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.912 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+
+  Full atom list (83 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.3306     0.4246     0.1092  CAT
+     2     P     1.8940     1.0495    -0.1965  CAT
+     3     P    -2.5369    -0.2206    -0.2769  CAT
+     4     O    -0.7754     1.6754     2.8344  CAT
+     5     N    -0.0884    -0.2463    -1.9266  CAT
+     6     C     0.9226     0.4864    -2.6770  CAT
+     7     H     0.6141     1.5330    -2.8784  CAT
+     8     H     1.0804     0.0183    -3.6652  CAT
+     9     C    -1.3196    -0.2539    -2.7093  CAT
+    10     H    -1.1526    -0.7612    -3.6767  CAT
+    11     H    -1.6581     0.7734    -2.9567  CAT
+    12     C    -2.4391    -0.9774    -1.9639  CAT
+    13     H    -2.1842    -2.0305    -1.8253  CAT
+    14     H    -3.3968    -0.9149    -2.4881  CAT
+    15     C     2.2528     0.4919    -1.9261  CAT
+    16     H     3.0036     1.1241    -2.4094  CAT
+    17     H     2.6365    -0.5301    -1.8637  CAT
+    18     C    -0.5914     1.1448     1.8110  CAT
+    19     H    -0.7242     1.8259    -0.5379  CAT
+    20     C     3.1788     0.2376     0.8374  CAT
+    21     C     4.3900    -0.2317     0.3080  CAT
+    22     C     2.9270     0.0704     2.2085  CAT
+    23     C     5.3317    -0.8529     1.1327  CAT
+    24     H     4.6031    -0.1271    -0.7508  CAT
+    25     C     3.8679    -0.5490     3.0321  CAT
+    26     H     1.9876     0.4165     2.6277  CAT
+    27     C     5.0726    -1.0141     2.4957  CAT
+    28     H     6.2613    -1.2176     0.7065  CAT
+    29     H     3.6567    -0.6754     4.0896  CAT
+    30     H     5.8013    -1.5037     3.1346  CAT
+    31     C     2.3773     2.8214    -0.1351  CAT
+    32     C     3.7210     3.2063    -0.2713  CAT
+    33     C     1.3975     3.8072     0.0344  CAT
+    34     C     4.0748     4.5551    -0.2495  CAT
+    35     H     4.4952     2.4534    -0.3824  CAT
+    36     C     1.7535     5.1586     0.0588  CAT
+    37     H     0.3615     3.5074     0.1438  CAT
+    38     C     3.0900     5.5352    -0.0843  CAT
+    39     H     5.1171     4.8414    -0.3550  CAT
+    40     H     0.9851     5.9142     0.1929  CAT
+    41     H     3.3664     6.5852    -0.0630  CAT
+    42     C    -3.2613    -1.5266     0.7921  CAT
+    43     C    -2.6744    -2.8047     0.7781  CAT
+    44     C    -4.3092    -1.2615     1.6841  CAT
+    45     C    -3.1523    -3.8016     1.6292  CAT
+    46     H    -1.8342    -3.0238     0.1188  CAT
+    47     C    -4.7786    -2.2630     2.5387  CAT
+    48     H    -4.7610    -0.2759     1.7158  CAT
+    49     C    -4.2058    -3.5360     2.5102  CAT
+    50     H    -2.6949    -4.7867     1.6069  CAT
+    51     H    -5.5908    -2.0445     3.2259  CAT
+    52     H    -4.5722    -4.3141     3.1733  CAT
+    53     C    -3.8544     1.0477    -0.3824  CAT
+    54     C    -5.1244     0.7166    -0.8835  CAT
+    55     C    -3.6088     2.3583     0.0439  CAT
+    56     C    -6.1273     1.6823    -0.9618  CAT
+    57     H    -5.3345    -0.3005    -1.2016  CAT
+    58     C    -4.6157     3.3252    -0.0297  CAT
+    59     H    -2.6263     2.6161     0.4220  CAT
+    60     C    -5.8738     2.9902    -0.5335  CAT
+    61     H    -7.1049     1.4158    -1.3526  CAT
+    62     H    -4.4139     4.3383     0.3050  CAT
+    63     H    -6.6551     3.7422    -0.5932  CAT
+    64     N     0.1966    -3.2010    -1.2628  AMINE
+    65     C     1.3596    -3.6327    -0.4978  AMINE
+    66     C     2.7172    -3.5401    -1.2134  AMINE
+    67     H     1.2084    -4.6682    -0.1661  AMINE
+    68     H     1.4141    -3.0221     0.4127  AMINE
+    69     N     3.8085    -3.7932    -0.2811  AMINE
+    70     H     2.7986    -2.5507    -1.7047  AMINE
+    71     H     2.7776    -4.2880    -2.0135  AMINE
+    72     H     0.2646    -2.2039    -1.5220  AMINE
+    73     H     3.7724    -3.1120     0.4739  AMINE
+    74     C    -0.0711    -4.0039    -2.4502  AMINE
+    75     H    -0.2325    -5.0505    -2.1623  AMINE
+    76     H    -0.9876    -3.6466    -2.9317  AMINE
+    77     H     0.7285    -3.9868    -3.2107  AMINE
+    78     C     5.1227    -3.7520    -0.9070  AMINE
+    79     H     5.8985    -3.8883    -0.1475  AMINE
+    80     H     5.2103    -4.5736    -1.6267  AMINE
+    81     H     5.3298    -2.8095    -1.4493  AMINE
+    82     H    -0.2611    -1.3469     0.6251  AMINE
+    83     H     0.4894    -1.0925     0.7572  AMINE
+✓               H1_DEA  (INT_TS_dea_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.639 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              H1_DETA  (INT_TS_deta_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 22, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 3.867 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             H1_DMEDA  (INT_TS_dmeda_h2h_3_b3lypd3bs1_cfc.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 4.131 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H1_EDA  (INT_TS_eda_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 14, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 4.181 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              H1_INDO  (INT_TS_indo_h2h_3_b3lypd3bs1_ar.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 3.983 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H1_MOR  (INT_TS_mor_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 3.884 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H1_NMA  (INT_TS_nma_h2h_3_b3lypd3bs1_ar.xyz)
+  Amine atoms: 19, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.956 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H1_PIP  (INT_TS_pip_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 4.033 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H1_THQ  (INT_TS_thq_h2h_3_b3lypd3bs1_ar.xyz)
+  Amine atoms: 23, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 3.978 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              H3_BMAE  (opt_bmae_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.801 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+
+  Full atom list (83 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.3143     0.6480     0.0934  CAT
+     2     P     1.9682     0.9290    -0.0680  CAT
+     3     P    -2.5095     0.0459    -0.2678  CAT
+     4     O    -0.6721     1.8165     2.8384  CAT
+     5     N    -0.0793    -0.1293    -1.9830  CAT
+     6     C     1.0944     0.4630    -2.6614  CAT
+     7     H     0.8714     1.5210    -2.8283  CAT
+     8     H     1.2506    -0.0137    -3.6409  CAT
+     9     C    -1.3167     0.0715    -2.7708  CAT
+    10     H    -1.2089    -0.3735    -3.7715  CAT
+    11     H    -1.4576     1.1500    -2.8848  CAT
+    12     C    -2.5057    -0.5504    -2.0451  CAT
+    13     H    -2.3975    -1.6384    -2.0320  CAT
+    14     H    -3.4442    -0.3056    -2.5502  CAT
+    15     C     2.3425     0.3148    -1.7987  CAT
+    16     H     3.1868     0.8512    -2.2413  CAT
+    17     H     2.6163    -0.7407    -1.7167  CAT
+    18     C    -0.5312     1.3635     1.7684  CAT
+    19     H    -0.5750     2.1122    -0.7039  CAT
+    20     C     3.1048    -0.0986     0.9498  CAT
+    21     C     4.3695    -0.4997     0.4887  CAT
+    22     C     2.6769    -0.5270     2.2136  CAT
+    23     C     5.1897    -1.3118     1.2761  CAT
+    24     H     4.7198    -0.1853    -0.4900  CAT
+    25     C     3.4994    -1.3325     3.0045  CAT
+    26     H     1.6847    -0.2535     2.5555  CAT
+    27     C     4.7550    -1.7296     2.5374  CAT
+    28     H     6.1622    -1.6204     0.9034  CAT
+    29     H     3.1521    -1.6617     3.9793  CAT
+    30     H     5.3880    -2.3674     3.1469  CAT
+    31     C     2.7412     2.6058    -0.0188  CAT
+    32     C     4.0645     2.8338     0.3896  CAT
+    33     C     1.9596     3.6956    -0.4316  CAT
+    34     C     4.6002     4.1238     0.3649  CAT
+    35     H     4.6778     2.0133     0.7433  CAT
+    36     C     2.5006     4.9824    -0.4653  CAT
+    37     H     0.9216     3.5193    -0.6986  CAT
+    38     C     3.8226     5.2006    -0.0689  CAT
+    39     H     5.6233     4.2863     0.6918  CAT
+    40     H     1.8828     5.8163    -0.7864  CAT
+    41     H     4.2400     6.2032    -0.0849  CAT
+    42     C    -3.2110    -1.3953     0.6361  CAT
+    43     C    -4.1090    -2.2996     0.0478  CAT
+    44     C    -2.8110    -1.6042     1.9640  CAT
+    45     C    -4.5983    -3.3899     0.7718  CAT
+    46     H    -4.4314    -2.1619    -0.9800  CAT
+    47     C    -3.3092    -2.6860     2.6920  CAT
+    48     H    -2.0882    -0.9306     2.4114  CAT
+    49     C    -4.2011    -3.5832     2.0973  CAT
+    50     H    -5.2871    -4.0852     0.3007  CAT
+    51     H    -2.9903    -2.8348     3.7194  CAT
+    52     H    -4.5797    -4.4308     2.6609  CAT
+    53     C    -3.8734     1.2869    -0.2111  CAT
+    54     C    -5.2244     0.9266    -0.0859  CAT
+    55     C    -3.5354     2.6434    -0.3200  CAT
+    56     C    -6.2196     1.9059    -0.0891  CAT
+    57     H    -5.5045    -0.1144     0.0314  CAT
+    58     C    -4.5334     3.6210    -0.3259  CAT
+    59     H    -2.4858     2.9136    -0.3890  CAT
+    60     C    -5.8768     3.2557    -0.2128  CAT
+    61     H    -7.2611     1.6147     0.0136  CAT
+    62     H    -4.2581     4.6687    -0.4073  CAT
+    63     H    -6.6518     4.0167    -0.2100  CAT
+    64     N    -0.0741    -2.9912    -0.9778  AMINE
+    65     C     1.2461    -3.3033    -0.4241  AMINE
+    66     C     2.2871    -3.5857    -1.5061  AMINE
+    67     H     1.2120    -4.1592     0.2706  AMINE
+    68     H     1.5585    -2.4286     0.1564  AMINE
+    69     N     3.6009    -3.7624    -0.9035  AMINE
+    70     H     2.2611    -2.7625    -2.2479  AMINE
+    71     H     2.0361    -4.5020    -2.0566  AMINE
+    72     H     0.0615    -1.1472    -1.8698  AMINE
+    73     H     3.7941    -2.9913    -0.2693  AMINE
+    74     C    -0.8435    -4.1641    -1.3877  AMINE
+    75     H    -0.9061    -4.9349    -0.6009  AMINE
+    76     H    -1.8630    -3.8615    -1.6446  AMINE
+    77     H    -0.3955    -4.6229    -2.2751  AMINE
+    78     C     4.6763    -3.8832    -1.8768  AMINE
+    79     H     5.6373    -3.9513    -1.3578  AMINE
+    80     H     4.5456    -4.8033    -2.4582  AMINE
+    81     H     4.7264    -3.0410    -2.5937  AMINE
+    82     H    -0.5783    -2.4725    -0.2582  AMINE
+    83     H    -0.0346    -0.8776     0.7242  AMINE
+✓               H3_DEA  (opt_dea_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.765 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              H3_DETA  (opt_deta_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 22, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 3.788 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             H3_DMEDA  (opt_dmeda_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 3.797 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H3_EDA  (opt_eda_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 14, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.823 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓              H3_INDO  (opt_indo_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 3.792 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H3_MOR  (opt_mor_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 3.752 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H3_NMA  (opt_nma_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.862 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H3_PIP  (opt_pip_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 3.775 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓               H3_THQ  (opt_thq_h2h_2_b3lypd3bs1.xyz)
+  Amine atoms: 23, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 3.725 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓            TS3A_BMAE  (TS23_bmae_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.284 Å
+
+  Full atom list (81 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.2183     0.0766     0.0590  CAT
+     2     P     1.9977     0.7570    -0.1945  CAT
+     3     P    -2.4886    -0.1250    -0.3751  CAT
+     4     O    -0.3547     0.1986     3.0655  CAT
+     5     N    -0.0734    -0.1785    -2.1022  CAT
+     6     C     1.0721     0.4579    -2.7631  CAT
+     7     H     0.8713     1.5327    -2.8867  CAT
+     8     H     1.2148     0.0391    -3.7724  CAT
+     9     C    -1.3040     0.0693    -2.8626  CAT
+    10     H    -1.2128    -0.3312    -3.8853  CAT
+    11     H    -1.4531     1.1553    -2.9553  CAT
+    12     C    -2.5273    -0.5521    -2.1879  CAT
+    13     H    -2.4838    -1.6416    -2.2660  CAT
+    14     H    -3.4462    -0.2148    -2.6752  CAT
+    15     C     2.3534     0.2702    -1.9519  CAT
+    16     H     3.1763     0.8454    -2.3859  CAT
+    17     H     2.6368    -0.7860    -1.9436  CAT
+    18     C    -0.3027     0.1410     1.8956  CAT
+    19     H    -0.5305     1.6425    -0.0529  CAT
+    20     C     3.4098     0.0627     0.7616  CAT
+    21     C     4.5953    -0.3842     0.1594  CAT
+    22     C     3.2750    -0.0348     2.1545  CAT
+    23     C     5.6242    -0.9249     0.9349  CAT
+    24     H     4.7200    -0.3282    -0.9171  CAT
+    25     C     4.3059    -0.5679     2.9292  CAT
+    26     H     2.3550     0.2870     2.6320  CAT
+    27     C     5.4815    -1.0183     2.3217  CAT
+    28     H     6.5343    -1.2737     0.4552  CAT
+    29     H     4.1843    -0.6440     4.0055  CAT
+    30     H     6.2783    -1.4443     2.9237  CAT
+    31     C     2.4111     2.5560    -0.1418  CAT
+    32     C     3.6890     2.9923    -0.5291  CAT
+    33     C     1.4795     3.4996     0.3050  CAT
+    34     C     4.0199     4.3463    -0.4890  CAT
+    35     H     4.4371     2.2737    -0.8500  CAT
+    36     C     1.8133     4.8564     0.3541  CAT
+    37     H     0.4937     3.1612     0.6024  CAT
+    38     C     3.0802     5.2836    -0.0461  CAT
+    39     H     5.0108     4.6692    -0.7948  CAT
+    40     H     1.0801     5.5769     0.7046  CAT
+    41     H     3.3384     6.3379    -0.0103  CAT
+    42     C    -3.5760    -1.3759     0.4221  CAT
+    43     C    -4.5567    -2.0912    -0.2793  CAT
+    44     C    -3.4178    -1.6036     1.7966  CAT
+    45     C    -5.3656    -3.0182     0.3816  CAT
+    46     H    -4.6913    -1.9392    -1.3456  CAT
+    47     C    -4.2321    -2.5240     2.4584  CAT
+    48     H    -2.6508    -1.0700     2.3477  CAT
+    49     C    -5.2062    -3.2354     1.7527  CAT
+    50     H    -6.1173    -3.5708    -0.1747  CAT
+    51     H    -4.0968    -2.6923     3.5227  CAT
+    52     H    -5.8336    -3.9578     2.2661  CAT
+    53     C    -3.5504     1.3770    -0.2252  CAT
+    54     C    -4.8225     1.4172    -0.8176  CAT
+    55     C    -3.1231     2.4699     0.5382  CAT
+    56     C    -5.6403     2.5375    -0.6697  CAT
+    57     H    -5.1883     0.5685    -1.3872  CAT
+    58     C    -3.9468     3.5878     0.6975  CAT
+    59     H    -2.1410     2.4388     0.9952  CAT
+    60     C    -5.2030     3.6276     0.0899  CAT
+    61     H    -6.6194     2.5570    -1.1395  CAT
+    62     H    -3.6032     4.4270     1.2955  CAT
+    63     H    -5.8408     4.4985     0.2094  CAT
+    64     N     0.2309    -2.0916    -0.5007  AMINE
+    65     C     1.5120    -2.6610    -0.0822  AMINE
+    66     C     2.2008    -3.5259    -1.1473  AMINE
+    67     H     1.3955    -3.2610     0.8341  AMINE
+    68     H     2.2040    -1.8643     0.1858  AMINE
+    69     N     3.4821    -4.0148    -0.6492  AMINE
+    70     H     2.3087    -2.9276    -2.0751  AMINE
+    71     H     1.5813    -4.3919    -1.4115  AMINE
+    72     H     0.1351    -1.3135    -1.6669  AMINE
+    73     H     4.0124    -3.2403    -0.2563  AMINE
+    74     C    -0.8063    -3.1067    -0.3272  AMINE
+    75     H    -1.0389    -3.2872     0.7338  AMINE
+    76     H    -1.7379    -2.8092    -0.8087  AMINE
+    77     H    -0.5168    -4.0729    -0.7694  AMINE
+    78     C     4.2752    -4.7060    -1.6552  AMINE
+    79     H     5.2427    -4.9947    -1.2321  AMINE
+    80     H     3.7585    -5.6233    -1.9608  AMINE
+    81     H     4.4581    -4.1089    -2.5696  AMINE
+✓             TS3A_DEA  (TS23_dea_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.305 Å
+✓           TS3A_DMEDA  (TS23_dmeda_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 2.500 Å
+✓             TS3A_EDA  (TS23_eda_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 12, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.508 Å
+✓            TS3A_INDO  (TS23_indo_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 2.362 Å
+✓             TS3A_MOR  (TS23_mor_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 15, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 2.276 Å
+✓             TS3A_NMA  (TS23_nma_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 2.294 Å
+✓             TS3A_PIP  (TS23_pip_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 2.279 Å
+✓             TS3A_THQ  (TS23_thq_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 21, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 2.604 Å
+✓            TS5A_BMAE  (TS_opt_bmae_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 4
+  Amine N → Ru: atom 66, d = 5.567 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+
+  Full atom list (86 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru     0.6942     0.6087    -0.1377  CAT
+     2     P    -1.2917     1.7746     0.1765  CAT
+     3     P     2.6407    -0.6180     0.1806  CAT
+     4     O     1.3018     1.6389    -2.9000  CAT
+     5     N     0.3480     0.0015     1.9590  CAT
+     6     C    -0.6008     0.8842     2.6728  CAT
+     7     H    -0.1009     1.8394     2.8666  CAT
+     8     H    -0.8722     0.4373     3.6396  CAT
+     9     C     1.6203    -0.1767     2.6970  CAT
+    10     H     1.4159    -0.5416     3.7135  CAT
+    11     H     2.1172     0.7956     2.7690  CAT
+    12     C     2.4842    -1.1899     1.9466  CAT
+    13     H     1.9643    -2.1526     1.9374  CAT
+    14     H     3.4622    -1.3110     2.4203  CAT
+    15     C    -1.8497     1.0991     1.8189  CAT
+    16     H    -2.5612     1.7648     2.3148  CAT
+    17     H    -2.3433     0.1413     1.6316  CAT
+    18     C     1.0545     1.2250    -1.8376  CAT
+    19     H    -0.0742    -0.9494     1.9204  CAT
+    20     H     1.4584     1.8846     0.5143  CAT
+    21     H    -0.0312    -0.8434    -0.8176  CAT
+    22     C    -2.7453     1.6021    -0.9355  CAT
+    23     C    -3.4283     0.3773    -1.0075  CAT
+    24     C    -3.1352     2.6518    -1.7814  CAT
+    25     C    -4.5028     0.2236    -1.8843  CAT
+    26     H    -3.1063    -0.4670    -0.4085  CAT
+    27     C    -4.2031     2.4879    -2.6666  CAT
+    28     H    -2.6097     3.6001    -1.7507  CAT
+    29     C    -4.8965     1.2764    -2.7148  CAT
+    30     H    -5.0282    -0.7259    -1.9224  CAT
+    31     H    -4.4922     3.3092    -3.3157  CAT
+    32     H    -5.7307     1.1512    -3.3988  CAT
+    33     C    -1.2327     3.5907     0.4643  CAT
+    34     C    -2.3427     4.2679     0.9965  CAT
+    35     C    -0.0831     4.3193     0.1378  CAT
+    36     C    -2.2973     5.6453     1.2092  CAT
+    37     H    -3.2526     3.7220     1.2288  CAT
+    38     C    -0.0400     5.7019     0.3423  CAT
+    39     H     0.7759     3.7929    -0.2625  CAT
+    40     C    -1.1435     6.3660     0.8810  CAT
+    41     H    -3.1610     6.1570     1.6238  CAT
+    42     H     0.8567     6.2563     0.0819  CAT
+    43     H    -1.1087     7.4392     1.0434  CAT
+    44     C     2.9157    -2.1464    -0.7918  CAT
+    45     C     3.3392    -3.3529    -0.2172  CAT
+    46     C     2.6942    -2.0897    -2.1761  CAT
+    47     C     3.5418    -4.4830    -1.0139  CAT
+    48     H     3.5070    -3.4236     0.8524  CAT
+    49     C     2.9049    -3.2157    -2.9719  CAT
+    50     H     2.3428    -1.1675    -2.6274  CAT
+    51     C     3.3282    -4.4158    -2.3923  CAT
+    52     H     3.8631    -5.4138    -0.5557  CAT
+    53     H     2.7275    -3.1589    -4.0416  CAT
+    54     H     3.4833    -5.2948    -3.0109  CAT
+    55     C     4.2861     0.2061     0.1126  CAT
+    56     C     5.4736    -0.5429     0.1507  CAT
+    57     C     4.3619     1.6031     0.0466  CAT
+    58     C     6.7131     0.0972     0.1382  CAT
+    59     H     5.4325    -1.6274     0.1746  CAT
+    60     C     5.6045     2.2431     0.0326  CAT
+    61     H     3.4420     2.1763     0.0053  CAT
+    62     C     6.7812     1.4932     0.0802  CAT
+    63     H     7.6247    -0.4927     0.1656  CAT
+    64     H     5.6502     3.3269    -0.0222  AMINE
+    65     H     7.7466     1.9906     0.0649  AMINE
+    66     N    -2.3018    -3.8767     1.2414  AMINE
+    67     C    -3.3819    -4.0688     0.2820  AMINE
+    68     C    -4.6250    -3.2323     0.6065  AMINE
+    69     H    -3.6473    -5.1306     0.2686  AMINE
+    70     H    -3.0145    -3.7996    -0.7118  AMINE
+    71     N    -5.6264    -3.3878    -0.4428  AMINE
+    72     H    -4.3166    -2.1825     0.7518  AMINE
+    73     H    -5.0668    -3.5722     1.5522  AMINE
+    74     H    -5.2143    -3.1360    -1.3384  AMINE
+    75     C    -2.2312    -4.7671     2.3872  AMINE
+    76     H    -2.0924    -5.8048     2.0585  AMINE
+    77     H    -1.3852    -4.4702     3.0051  AMINE
+    78     H    -3.1495    -4.7159     2.9875  AMINE
+    79     C    -6.8313    -2.5979    -0.2122  AMINE
+    80     H    -7.5121    -2.7073    -1.0619  AMINE
+    81     H    -7.3465    -2.9752     0.6783  AMINE
+    82     H    -6.6361    -1.5213    -0.0565  AMINE
+    83     C    -1.4543    -2.8011     1.1318  EXTRA
+    84     O    -1.7017    -2.0127     0.1211  EXTRA
+    85     O    -0.5352    -2.6136     1.9690  EXTRA
+    86     H    -0.7276    -1.2785    -0.2792  EXTRA
+✓             TS5A_DEA  (TS_opt_dea_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 4
+  Amine N → Ru: atom 66, d = 5.358 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓            TS5A_DETA  (TS_opt_deta_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 21, Extra atoms: 4
+  Amine N → Ru: atom 72, d = 5.529 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓           TS5A_DMEDA  (TS_opt_dmeda_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 4
+  Amine N → Ru: atom 72, d = 5.552 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TS5A_EDA  (TS_opt_eda_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 13, Extra atoms: 4
+  Amine N → Ru: atom 66, d = 5.486 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓            TS5A_INDO  (TS_opt_indo_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 4
+  Amine N → Ru: atom 68, d = 5.275 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TS5A_MOR  (TS_opt_mor_5_limcat_b3lypd3bs1_cfc.xyz)
+  Amine atoms: 16, Extra atoms: 4
+  Amine N → Ru: atom 78, d = 5.392 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TS5A_NMA  (TS_opt_nma_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 18, Extra atoms: 4
+  Amine N → Ru: atom 66, d = 5.405 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TS5A_PIP  (TS_opt_pip_5_limcat_b3lypd3bs1_cfc.xyz)
+  Amine atoms: 18, Extra atoms: 4
+  Amine N → Ru: atom 78, d = 5.330 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TS5A_THQ  (TS_opt_thq_5_limcat_b3lypd3bs1.xyz)
+  Amine atoms: 22, Extra atoms: 4
+  Amine N → Ru: atom 68, d = 5.327 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓            TSH2_BMAE  (TS_bmae_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.374 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+
+  Full atom list (83 atoms):
+   Idx  Elem          X          Y          Z  Fragment
+     1    Ru    -0.3365     0.4575     0.1253  CAT
+     2     P     1.9162     0.9474    -0.0743  CAT
+     3     P    -2.5280    -0.1309    -0.3270  CAT
+     4     O    -0.8293     1.8094     2.7829  CAT
+     5     N    -0.0307    -0.3088    -1.9115  CAT
+     6     C     1.0649     0.3628    -2.6063  CAT
+     7     H     0.8085     1.4160    -2.8335  CAT
+     8     H     1.2626    -0.1227    -3.5798  CAT
+     9     C    -1.2251    -0.1694    -2.7411  CAT
+    10     H    -1.0747    -0.6552    -3.7227  CAT
+    11     H    -1.4402     0.8955    -2.9568  CAT
+    12     C    -2.4470    -0.7914    -2.0699  CAT
+    13     H    -2.3283    -1.8769    -2.0060  CAT
+    14     H    -3.3686    -0.5795    -2.6200  CAT
+    15     C     2.3469     0.3397    -1.7779  CAT
+    16     H     3.1397     0.9395    -2.2353  CAT
+    17     H     2.7085    -0.6872    -1.6776  CAT
+    18     C    -0.6340     1.2590     1.7696  CAT
+    19     H    -0.6144     1.8631    -0.6277  CAT
+    20     C     3.1496     0.1017     1.0016  CAT
+    21     C     4.4024    -0.3222     0.5297  CAT
+    22     C     2.8033    -0.1647     2.3336  CAT
+    23     C     5.2873    -1.0022     1.3703  CAT
+    24     H     4.6906    -0.1348    -0.5003  CAT
+    25     C     3.6903    -0.8366     3.1771  CAT
+    26     H     1.8262     0.1349     2.6983  CAT
+    27     C     4.9320    -1.2617     2.6969  CAT
+    28     H     6.2514    -1.3286     0.9903  CAT
+    29     H     3.4058    -1.0388     4.2055  CAT
+    30     H     5.6165    -1.7953     3.3493  CAT
+    31     C     2.4878     2.6994    -0.0314  CAT
+    32     C     3.8443     3.0328    -0.1748  CAT
+    33     C     1.5497     3.7247     0.1426  CAT
+    34     C     4.2523     4.3665    -0.1563  CAT
+    35     H     4.5899     2.2527    -0.2892  CAT
+    36     C     1.9596     5.0610     0.1666  CAT
+    37     H     0.5027     3.4653     0.2508  CAT
+    38     C     3.3088     5.3852     0.0154  CAT
+    39     H     5.3047     4.6107    -0.2689  CAT
+    40     H     1.2218     5.8457     0.3063  CAT
+    41     H     3.6269     6.4235     0.0350  CAT
+    42     C    -3.3072    -1.4999     0.6192  CAT
+    43     C    -4.2437    -2.3702     0.0386  CAT
+    44     C    -2.9349    -1.6970     1.9562  CAT
+    45     C    -4.7936    -3.4188     0.7791  CAT
+    46     H    -4.5485    -2.2310    -0.9944  CAT
+    47     C    -3.4915    -2.7396     2.7004  CAT
+    48     H    -2.1939    -1.0426     2.4025  CAT
+    49     C    -4.4187    -3.6047     2.1131  CAT
+    50     H    -5.5143    -4.0871     0.3165  CAT
+    51     H    -3.1940    -2.8804     3.7354  CAT
+    52     H    -4.8455    -4.4200     2.6897  CAT
+    53     C    -3.8444     1.1561    -0.3883  CAT
+    54     C    -5.1656     0.9149     0.0161  CAT
+    55     C    -3.5056     2.4245    -0.8852  CAT
+    56     C    -6.1315     1.9197    -0.0867  CAT
+    57     H    -5.4444    -0.0509     0.4221  CAT
+    58     C    -4.4747     3.4218    -0.9999  CAT
+    59     H    -2.4745     2.6251    -1.1578  CAT
+    60     C    -5.7910     3.1731    -0.6002  CAT
+    61     H    -7.1485     1.7214     0.2394  CAT
+    62     H    -4.1978     4.3977    -1.3883  CAT
+    63     H    -6.5425     3.9533    -0.6788  CAT
+    64     N     0.3857    -2.7574    -0.5982  AMINE
+    65     C     1.7765    -3.1110    -0.3119  AMINE
+    66     C     2.5885    -3.5350    -1.5357  AMINE
+    67     H     1.7960    -3.9058     0.4414  AMINE
+    68     H     2.2440    -2.2325     0.1467  AMINE
+    69     N     3.9782    -3.7461    -1.1532  AMINE
+    70     H     2.4711    -2.7702    -2.3284  AMINE
+    71     H     2.1979    -4.4743    -1.9483  AMINE
+    72     H     0.3026    -2.0308    -1.3650  AMINE
+    73     H     4.3211    -2.9306    -0.6507  AMINE
+    74     C    -0.5484    -3.8713    -0.7433  AMINE
+    75     H    -0.4758    -4.5274     0.1300  AMINE
+    76     H    -1.5686    -3.4843    -0.7851  AMINE
+    77     H    -0.3587    -4.4677    -1.6457  AMINE
+    78     C     4.8528    -4.0497    -2.2790  AMINE
+    79     H     5.8852    -4.1417    -1.9286  AMINE
+    80     H     4.5632    -5.0117    -2.7171  AMINE
+    81     H     4.8223    -3.2927    -3.0843  AMINE
+    82     H    -0.5973    -1.4495     0.4522  AMINE
+    83     H    -0.0337    -1.0888     0.9782  AMINE
+✓             TSH2_DEA  (TS_dea_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.377 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓            TSH2_DETA  (TS_deta_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 22, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 3.359 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓           TSH2_DMEDA  (TS_dmeda_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 3.350 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TSH2_EDA  (TS_eda_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 14, Extra atoms: 0
+  Amine N → Ru: atom 70, d = 3.359 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓            TSH2_INDO  (TS_indo_h2h_3_b3lypd3bs1_cfc.xyz)
+  Amine atoms: 20, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 3.519 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TSH2_MOR  (TS_mor_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 17, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 3.356 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TSH2_NMA  (TS_nma_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 0
+  Amine N → Ru: atom 64, d = 3.537 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TSH2_PIP  (TS_pip_h2h_3_b3lypd3bs1.xyz)
+  Amine atoms: 19, Extra atoms: 0
+  Amine N → Ru: atom 76, d = 3.377 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+✓             TSH2_THQ  (TS_thq_h2h_3_b3lypd3bs1_cfc.xyz)
+  Amine atoms: 23, Extra atoms: 0
+  Amine N → Ru: atom 66, d = 3.530 Å
+  [WARN] Ru–N distance > 3.0 Å — may not be bonded
+
+==================================================
+Total: 88  Passed: 88  Failed: 0
+✓  All structures verified. Safe to proceed.

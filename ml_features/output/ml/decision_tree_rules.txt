@@ -1,0 +1,10 @@
+|--- H1 <= 21.30
+|   |--- E_SE_frag2_TSH2 <= 5.20
+|   |   |--- class: 1
+|   |--- E_SE_frag2_TSH2 >  5.20
+|   |   |--- class: 0
+|--- H1 >  21.30
+|   |--- E_DEF_frag1_TS5A <= 138.41
+|   |   |--- class: 0
+|   |--- E_DEF_frag1_TS5A >  138.41
+|   |   |--- class: 0
